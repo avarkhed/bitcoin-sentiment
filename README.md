@@ -11,6 +11,7 @@ Usage:
 
 Clone/download repository, and run:
 
+cd bitcoin-sentiment
 sh bitcoin.sh
 
 then follow the instructions. You may have to enter in your computer's password on the first time. Computations may take a while. When computations are complete, a final result should print, example:
